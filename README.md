@@ -36,8 +36,6 @@ Dự án được thực hiện theo các giai đoạn sau:
 
 <br>
 
-![NIDS Prototype on Pi 5](./images/prototype_pi.png)
-
 
 ## Bắt Đầu
 ### Yêu Cầu 
